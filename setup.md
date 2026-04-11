@@ -9,8 +9,8 @@ git --version
 
 If not, then
 
----bash
-sudo apt install git
+---
+### sudo apt install git
 ---
 
 ### 2. Tell CLI who you are
