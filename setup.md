@@ -36,6 +36,7 @@ Paste the key here, and Save.
 ---
 ### 5. Test your connection
 This will check and show whether you've authenticated rightly or not.
+
 `ssh -T git@github.com`
 
 ---
