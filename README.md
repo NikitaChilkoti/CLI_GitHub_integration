@@ -24,7 +24,7 @@ It is a beginner-friendly guide covering:
 
 ## Setup Guide
 
-👉 Detailed steps available here: [setup.md](setup.md)
+Detailed steps available here:
 
 ---
 
