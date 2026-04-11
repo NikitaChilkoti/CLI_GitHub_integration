@@ -34,15 +34,15 @@ Copy this.
 Paste the key here, and Save.
 
 ---
-### Test your connection
+### 5. Test your connection
 This will check and show whether you've authenticated rightly or not.
 `ssh -T git@github.com`
 
 ---
 
-⭐ You'll see a successful authentication message.
+## ⭐ You'll see a successful authentication message.
 
-### Remember
+## Remember
 You can connect to your GitHub but cannot be inside it.
 
 ## Refer --------- to initialize a local repository and to push it to GitHub.
