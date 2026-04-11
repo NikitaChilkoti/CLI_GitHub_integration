@@ -29,7 +29,7 @@ Copy this.
 
 ---
 ### 4. Add this key to GitHub
-`Go to GitHub --> Settings --> SSH and GPG Keys --> New SSH Key`
+Go to GitHub --> Settings --> SSH and GPG Keys --> New SSH Key
 
 Paste the key here, and Save.
 
