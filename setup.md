@@ -4,8 +4,8 @@ You'll get the feeling when you would have successfully connected CLI to GitHub.
 
 ### 1. Check git version
 Before anything, make sure Git exists on your system.
----bash
-git --version
+
+'git --version'
 
 If not, then
 
