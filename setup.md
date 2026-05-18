@@ -46,4 +46,4 @@ This will check and show whether you've authenticated rightly or not.
 ## Remember
 You can connect to your GitHub but cannot be inside it.
 
-## Refer --------- to initialize a local repository and to push it to GitHub.
+## Refer [the next file](Initialising_&_Pushing_a_repo.ssh) to initialize a local repository and to push it to GitHub.
